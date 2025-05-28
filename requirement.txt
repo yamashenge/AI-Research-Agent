@@ -1,4 +1,4 @@
-tavily
+tavily-python==0.6.0
 
 openai
 streamlit
